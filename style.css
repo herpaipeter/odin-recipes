@@ -1,0 +1,30 @@
+* {
+    background-color: moccasin;
+    font-family: Calibri, sans-serif;
+    font-size: 20px;
+}
+
+h1 {
+    color: hsl(43, 100%, 20%);
+    font-size: 50px;
+}
+
+h2 {
+    color: hsl(43, 100%, 20%);
+    font-size: 30px;
+}
+
+ol li {
+    height: 40px;
+}
+
+#main-title {
+    text-align: center;
+    font-size: 70px;
+    background-color: hsl(43, 100%, 20%);
+    color: moccasin;
+}
+
+.recipe-link {
+    font-size: 30px;
+}
